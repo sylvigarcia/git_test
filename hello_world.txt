@@ -1,2 +1,3 @@
 Hello World!
 I'm learning Git with The Odin Project.
+I'm practicing Git commands independently.
