@@ -1,0 +1,2 @@
+Today I practiced Git independently.
+ I can create,stage,commit and push files.
